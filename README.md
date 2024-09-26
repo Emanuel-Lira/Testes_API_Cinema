@@ -7,19 +7,21 @@ Esta Sprint aborda temas de organização, desenvolvimento ágil, testes, AWS e 
 ## Conteúdo da Sprint
 
 ### Organização
-- Uso de Kanban no GitLab para controle de tarefas.
+
+### GIT E GITLAB
 
 ### Desenvolvimento Ágil
-- Princípios básicos e práticas do Scrum.
 
-### Testes
-- Testes unitários, de integração e automatizados.
+### Fundamentos do teste de software
 
-### AWS
-- Conceitos iniciais sobre serviços de nuvem com AWS.
+### Fundamentos do teste de software + Myers e o princípio de pareto
+
+### Fundamentos do teste de software (Back-End)
+
+### NOSQL e SQL
 
 ### Cybersecurity
-- Introdução às práticas de segurança no desenvolvimento de software.
+
 
 ## Tarefas Diárias
 
@@ -32,4 +34,4 @@ Esta Sprint aborda temas de organização, desenvolvimento ágil, testes, AWS e 
 | Dia 5| Cybersecurity: práticas e exercícios                        |  [ ]   |
 
 ## Citações e Colaborações
-- Caso tenha recebido ajuda de algum colega, cite-o aqui, ou diretamente no código.
+- Caso tenha recebido ajuda de algum colega
