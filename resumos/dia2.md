@@ -45,4 +45,4 @@
 
 ## Pendências para o Próximo Dia
 
-- [x] Início Rápido em Teste e QA
+- [x] Início Rápido em Teste e QA 
