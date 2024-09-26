@@ -14,9 +14,9 @@ Esta Sprint aborda temas de organização, desenvolvimento ágil, testes, AWS e 
 
 ### Fundamentos do teste de software
 
-### Fundamentos do teste de software + Myers e o princípio de pareto
+#### Fundamentos do teste de software + Myers e o princípio de pareto
 
-### Fundamentos do teste de software (Back-End)
+#### Fundamentos do teste de software (Back-End)
 
 ### NOSQL e SQL
 
