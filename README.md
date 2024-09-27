@@ -37,7 +37,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
 ---
 
-## Resumos Diários
+## Tasks Diárias
 
 - [Dia 1 - Resumo](resumos/dia1.md)
 - [Dia 2 - Resumo](resumos/dia2.md)
