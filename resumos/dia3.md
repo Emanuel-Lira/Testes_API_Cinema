@@ -123,3 +123,5 @@
     - Adaptação aos métodos ágeis
   - Inteligência artificial em testes
     - machine learning e IA para melhorar a qualidade dos testes
+
+ .   
