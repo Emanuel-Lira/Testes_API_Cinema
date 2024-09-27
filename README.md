@@ -1,7 +1,7 @@
 # Projeto Sprint 1
 
 ## Descrição
-Este projeto faz parte da **Sprint 1**, que abrange temas como organização, desenvolvimento ágil, testes de software, AWS, Cybersecurity e versionamento de código com Git e GitLab. Ao longo da Sprint, serão desenvolvidos exercícios e resumos para consolidar o aprendizado.
+Este projeto faz parte da **Sprint 1**, que abrange temas como organização, desenvolvimento ágil, testes de software, Cybersecurity e versionamento de código com Git e GitLab. Ao longo da Sprint, serão desenvolvidos exercícios e resumos para consolidar o aprendizado.
 
 ---
 
@@ -10,8 +10,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - Utilizar o Git e GitLab para versionamento de código e documentação.
 - Explorar fundamentos de testes de software (incluindo princípios de Myers e Pareto).
 - Aprender sobre bancos de dados NoSQL e SQL.
-- Introduzir conceitos de segurança da informação (Cybersecurity).
-- Realizar exercícios práticos com AWS.
+- Introduzir conceitos de Cybersecurity.
 
 ---
 
