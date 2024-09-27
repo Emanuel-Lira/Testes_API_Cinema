@@ -47,16 +47,16 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 ## Tarefas Diárias
 
 | Dia  | Atividades                                                                              | Status |
-|------|-------------------------------------------------------------                            |--------|
-|[DIA 1](sprints8071939/sprint-1#1)| Introdução ao Git e GitLab;                                 |  [x]   |
-|[DIA 2](sprints8071939/sprint-1#2)| Scrum e desenvolvimento ágil                                |  [x]   |
-|[DIA 3](sprints8071939/sprint-1#3)| TFundamentos do teste de software                           |  [x]   |
-|[DIA 4](sprints8071939/sprint-1#4)| Fundamentos do teste de software                            |  [x]   |
-|[DIA 5](sprints8071939/sprint-1#5)| Fundamentos do teste de software                            |  [ ]   |
-|[DIA 6](sprints8071939/sprint-1#6)| Fundamentos do teste de software (Back-End)                 |  [ ]   |
-|[DIA 7](sprints8071939/sprint-1#7)| SQL                                                         |  [ ]   |
-|[DIA 8](sprints8071939/sprint-1#8)| NOSQL                                                       |  [ ]   |
-|[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]   |
+|------|-------------------------------------------------------------                            |-------|
+|[DIA 1](sprints8071939/sprint-1#1)| Introdução ao Git e GitLab;                                 |  [x]  |
+|[DIA 2](sprints8071939/sprint-1#2)| Scrum e desenvolvimento ágil                                |  [x]  |
+|[DIA 3](sprints8071939/sprint-1#3)| TFundamentos do teste de software                           |  [x]  |
+|[DIA 4](sprints8071939/sprint-1#4)| Fundamentos do teste de software                            |  [x]  |
+|[DIA 5](sprints8071939/sprint-1#5)| Fundamentos do teste de software                            |  [ ]  |
+|[DIA 6](sprints8071939/sprint-1#6)| Fundamentos do teste de software (Back-End)                 |  [ ]  |
+|[DIA 7](sprints8071939/sprint-1#7)| SQL                                                         |  [ ]  |
+|[DIA 8](sprints8071939/sprint-1#8)| NOSQL                                                       |  [ ]  |
+|[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]  |
 
 ## Citações e Colaborações
 - Caso tenha recebido ajuda de algum colega
