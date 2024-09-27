@@ -59,6 +59,6 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]  |
 
 ## Citações e Colaborações
-- Gabriel Castro
-- Giusepp de Couto
-- igor
+- [Gabriel Castro](https://gitlab.com/leirbagOstarc)
+- [Giusepp de Couto](https://gitlab.com/giuuppa)
+- [igor](https://gitlab.com/igorcoelh0)
