@@ -59,4 +59,4 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]  |
 
 ## Citações e Colaborações
-- Caso tenha recebido ajuda de algum colega
+- nome do colega
