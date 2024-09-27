@@ -39,24 +39,24 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 ## Tasks Diárias
 
-- [Dia 1 - Resumo](resumos/dia1.md)
-- [Dia 2 - Resumo](resumos/dia2.md)
-- [Dia 3 - Resumo](resumos/dia3.md)
-- [Dia 4 - Resumo](resumos/dia4.md)
+- [Dia 1 - Resumo](sprints8071939/sprint-1#1)
+- [Dia 2 - Resumo](sprints8071939/sprint-1#2)
+- [Dia 3 - Resumo](sprints8071939/sprint-1#3)
+- [Dia 4 - Resumo](sprints8071939/sprint-1#4)
 
 ## Tarefas Diárias
 
 | Dia  | Atividades                                                                              | Status |
 |------|-------------------------------------------------------------                            |-------|
-|[DIA 1](sprints8071939/sprint-1#1)| Introdução ao Git e GitLab;                                 |  [x]  |
-|[DIA 2](sprints8071939/sprint-1#2)| Scrum e desenvolvimento ágil                                |  [x]  |
-|[DIA 3](sprints8071939/sprint-1#3)| Fundamentos do teste de software                           |  [x]  |
-|[DIA 4](sprints8071939/sprint-1#4)| Fundamentos do teste de software                            |  [x]  |
-|[DIA 5](sprints8071939/sprint-1#5)| Fundamentos do teste de software                            |  [ ]  |
-|[DIA 6](sprints8071939/sprint-1#6)| Fundamentos do teste de software (Back-End)                 |  [ ]  |
-|[DIA 7](sprints8071939/sprint-1#7)| SQL                                                         |  [ ]  |
-|[DIA 8](sprints8071939/sprint-1#8)| NOSQL                                                       |  [ ]  |
-|[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]  |
+|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                                 |  [x]  |
+|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                                |  [x]  |
+|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software                           |  [x]  |
+|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software                            |  [x]  |
+|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software                            |  [ ]  |
+|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End)                 |  [ ]  |
+|[DIA 7](resumos/dia7.md)| SQL                                                         |  [ ]  |
+|[DIA 8](resumos/dia8.md)| NOSQL                                                       |  [ ]  |
+|[DIA 9](resumos/dia9.md)| Cybersecurity                                               |  [ ]  |
 
 ## Citações e Colaborações
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
