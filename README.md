@@ -61,4 +61,4 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 ## Citações e Colaborações
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
-- [igor](https://gitlab.com/igorcoelh0)
+- [igor Coelho](https://gitlab.com/igorcoelh0)
