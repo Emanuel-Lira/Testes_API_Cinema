@@ -17,23 +17,24 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 ## Conteúdo da Sprint
 
 ### 1. Organização
-Estratégias para organização de tarefas, uso de boards no GitLab e métodos para manter o controle de atividades.
+- Estratégias para organização de tarefas, uso de boards no GitLab e métodos para manter o controle de atividades.
 
 ### 2. Git e GitLab
-Fundamentos de versionamento de código com Git. Utilização do GitLab para controle de versões, gerenciamento de projetos e colaboração.
+- Fundamentos de versionamento de código com Git. Utilização do GitLab para controle de versões, gerenciamento de projetos e colaboração.
 
 ### 3. Desenvolvimento Ágil
-Práticas ágeis com Scrum, abordando os papéis de **Product Owner**, **Scrum Master** e **Equipe de Desenvolvimento**, além das principais cerimônias: **Sprint Planning**, **Sprint Review** e **Sprint Retrospective**.
+- Práticas ágeis com Scrum, abordando os papéis de **Product Owner**, **Scrum Master** e **Equipe de Desenvolvimento**, além das principais cerimônias: **Sprint Planning**, **Sprint Review** e **Sprint Retrospective**.
 
 ### 4. Fundamentos do Teste de Software
 - Introdução aos testes de software, incluindo os princípios de **Myers** e o **Princípio de Pareto**.
 - Testes de software focados em **Back-End**: estratégias de teste para APIs, banco de dados e serviços.
 
 ### 5. NoSQL e SQL
-Comparação entre bancos de dados **SQL** e **NoSQL**. Aplicação prática com exemplos.
+- Comparação entre bancos de dados **SQL** e **NoSQL**. Aplicação prática com exemplos.
 
 ### 6. Cybersecurity
-Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
+
+- Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
 ---
 
 ## Resumos Diários
@@ -45,17 +46,17 @@ Fundamentos de segurança da informação, abordando práticas para proteger dad
 
 ## Tarefas Diárias
 
-| Dia  | Atividades                                                  | Status |
-|------|-------------------------------------------------------------|--------|
-|[DIA 1](sprints8071939/sprint-1#1)| Introdução ao Git e GitLab;     |  [x]   |
-|[DIA 2](sprints8071939/sprint-1#2)| Scrum e desenvolvimento ágil    |  [x]   |
-|[DIA 3](sprints8071939/sprint-1#3)| Testes de software: introdução e exercícios práticos        |  [ ]   |
-|[DIA 4](sprints8071939/sprint-1#4)| AWS: primeiros passos e exercícios                          |  [X]   |
-|[DIA 5](sprints8071939/sprint-1#5)| Cybersecurity: práticas e exercícios                        |  [ ]   |
-|[DIA 6](sprints8071939/sprint-1#6)| Cybersecurity: práticas e exercícios                        |  [ ]   |
-|[DIA 7](sprints8071939/sprint-1#7)| Cybersecurity: práticas e exercícios                        |  [ ]   |
-|[DIA 8](sprints8071939/sprint-1#8)| Cybersecurity: práticas e exercícios                        |  [ ]   |
-|[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity: práticas e exercícios                        |  [ ]   |
+| Dia  | Atividades                                                                              | Status |
+|------|-------------------------------------------------------------                            |--------|
+|[DIA 1](sprints8071939/sprint-1#1)| Introdução ao Git e GitLab;                                 |  [x]   |
+|[DIA 2](sprints8071939/sprint-1#2)| Scrum e desenvolvimento ágil                                |  [x]   |
+|[DIA 3](sprints8071939/sprint-1#3)| TFundamentos do teste de software                           |  [x]   |
+|[DIA 4](sprints8071939/sprint-1#4)| Fundamentos do teste de software                            |  [X]   |
+|[DIA 5](sprints8071939/sprint-1#5)| Fundamentos do teste de software                            |  [ ]   |
+|[DIA 6](sprints8071939/sprint-1#6)| Fundamentos do teste de software (Back-End)                 |  [ ]   |
+|[DIA 7](sprints8071939/sprint-1#7)| SQL                                                         |  [ ]   |
+|[DIA 8](sprints8071939/sprint-1#8)| NOSQL                                                       |  [ ]   |
+|[DIA 9](sprints8071939/sprint-1#9)| Cybersecurity                                               |  [ ]   |
 
 ## Citações e Colaborações
 - Caso tenha recebido ajuda de algum colega
