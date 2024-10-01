@@ -1,11 +1,22 @@
-# Projeto Sprint 1
 
-## Descrição
+![Banner Compass UOL](/resumos/img/banner.png)
+
+## 📋 Organização
+
+- [Sobre a Sprint](#sobre)
+- [Objetivos da Sprint](#objetivos-da-sprint)
+- [Conteúdo da Sprint](#conteúdo-da-sprint)
+- [Tasks Diárias](#tasks-diárias)
+- [Tarefas Diárias](#tarefas-diárias)
+- [Citações e Colaborações](#citações-e-colaborações)
+
+---
+## 📝 Sobre
 Este projeto faz parte da **Sprint 1**, que abrange temas como organização, desenvolvimento ágil, testes de software, Cybersecurity e versionamento de código com Git e GitLab. Ao longo da Sprint, serão desenvolvidos exercícios e resumos para consolidar o aprendizado.
 
 ---
 
-## Objetivos da Sprint
+## 🎯 Objetivos da Sprint
 - Introduzir práticas ágeis de desenvolvimento utilizando o Scrum.
 - Utilizar o Git e GitLab para versionamento de código e documentação.
 - Explorar fundamentos de testes de software (incluindo princípios de Myers e Pareto).
@@ -14,7 +25,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 ---
 
-## Conteúdo da Sprint
+## 📚 Conteúdo da Sprint
 
 ### 1. Organização
 - Estratégias para organização de tarefas, uso de boards no GitLab e métodos para manter o controle de atividades.
@@ -37,7 +48,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
 ---
 
-## Tasks Diárias
+## ✅ Tasks Diárias
 
 - [Dia 1 - Resumo](sprints8071939/sprint-1#1)
 - [Dia 2 - Resumo](sprints8071939/sprint-1#2)
@@ -47,7 +58,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - [Dia 6 - Resumo](sprints8071939/sprint-1#12)
 - [Dia 7 - Resumo](sprints8071939/sprint-1#13)
 
-## Tarefas Diárias
+## 📅 Tarefas Diárias
 
 | Dia  | Atividades                                                                              | Status |
 |------|-------------------------------------------------------------                            |-------|
@@ -55,13 +66,26 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                                |  [x]  |
 |[DIA 3](resumos/dia3.md)| Fundamentos do teste de software                           |  [x]  |
 |[DIA 4](resumos/dia4.md)| Fundamentos do teste de software                            |  [x]  |
-|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software                            |  [ ]  |
-|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End)                 |  [ ]  |
-|[DIA 7](resumos/dia7.md)| SQL                                                         |  [ ]  |
+|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software                            |  [x]  |
+|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End)                 |  [x]  |
+|[DIA 7](resumos/dia7.md)| SQL                                                         |  [x]  |
 |[DIA 8](resumos/dia8.md)| NOSQL                                                       |  [ ]  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                                               |  [ ]  |
 
-## Citações e Colaborações
+
+## 🎓 Certificações
+
+
+
+## 🤝 Citações e Colaborações
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
+
+## 👥 Dinamicas em grupo
+- [Breno Lima]()
+- [Evelyn](https://gitlab.com/04julxa)
+- [Francinaldo](https://gitlab.com/Batissta)
+- [Felipe Cabral](https://gitlab.com/FCabral07)
+- [Edno](https://gitlab.com/ednosilva)
+https://gitlab.com/Emanuel-Lira

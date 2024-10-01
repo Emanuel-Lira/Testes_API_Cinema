@@ -41,7 +41,7 @@
 
 ### SELECT * FROM produtos WHERE preco > 100.00;
 - Realizar uma consulta que apresente produtos com o preço maior que "100.00"<br>
-![valor maior que 100](/resumos/img/produtos/preco+100.png)
+- [x] ![valor maior que 100](/resumos/img/produtos/preco+100.png)
 
 ### SELECT * FROM produtos WHERE preco BETWEEN 1000.00 AND 2000.00;
 - Realizar uma consulta que apresente produtos com o preço entre "1000.00" e "2000.00"<br>
