@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/resumos/img/banner.png" alt="banner Compass" />
+  <img src="/resumos/img/1657646882524.png" alt="banner Compass" />
 </div>
 
 
@@ -90,4 +90,3 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - [Francinaldo](https://gitlab.com/Batissta)
 - [Felipe Cabral](https://gitlab.com/FCabral07)
 - [Edno](https://gitlab.com/ednosilva)
-https://gitlab.com/Emanuel-Lira
