@@ -1,14 +1,16 @@
-
+<div align="center">
+  <img src="/resumos/img/banner.png" alt="banner Compass" />
+</div>
 ![Banner Compass UOL](/resumos/img/banner.png)
 
 ## 📋 Organização
 
-- [Sobre a Sprint](#sobre)
-- [Objetivos da Sprint](#objetivos-da-sprint)
-- [Conteúdo da Sprint](#conteúdo-da-sprint)
-- [Tasks Diárias](#tasks-diárias)
-- [Tarefas Diárias](#tarefas-diárias)
-- [Citações e Colaborações](#citações-e-colaborações)
+- [Sobre a Sprint](#-sobre)
+- [Objetivos da Sprint](#-objetivos-da-sprint)
+- [Conteúdo da Sprint](#-conteúdo-da-sprint)
+- [Tasks Diárias](#-tasks-diárias)
+- [Tarefas Diárias](#-tarefas-diárias)
+- [Citações e Colaborações](#-citações-e-colaborações)
 
 ---
 ## 📝 Sobre
