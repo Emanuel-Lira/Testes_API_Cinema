@@ -6,7 +6,7 @@
 
 ### SELECT COUNT(*) FROM usuarios;
 - Realizar uma consulta que conte o número de registros na tabela
-![contagem](/sprint-1/resumos/img/usuarios/count.png)
+![contagem](/resumos/img/usuarios/count.png)
 
 ### SELECT * FROM usuarios WHERE id = 10;
 - Realizar uma consulta para encontrar o usuário com o id 10. <br>
