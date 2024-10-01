@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/resumos/img/banner.png" alt="banner Compass" />
 </div>
-![Banner Compass UOL](/resumos/img/banner.png)
+
 
 ## 📋 Organização
 
