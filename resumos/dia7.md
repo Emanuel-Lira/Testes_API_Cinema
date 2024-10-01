@@ -9,7 +9,7 @@
 ![contagem](img/count.png)
 
 ### SELECT * FROM usuarios WHERE id = 10;
-- Realizar uma consulta para encontrar o usuário com o id 10.
+- Realizar uma consulta para encontrar o usuário com o id 10. <br>
 ![listar user id 10](img/id10.png)
 
 ### SELECT * FROM usuarios WHERE nome = 'Bruce Wayne';
