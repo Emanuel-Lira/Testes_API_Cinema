@@ -43,6 +43,9 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - [Dia 2 - Resumo](sprints8071939/sprint-1#2)
 - [Dia 3 - Resumo](sprints8071939/sprint-1#10)
 - [Dia 4 - Resumo](sprints8071939/sprint-1#16)
+- [Dia 5 - Resumo](sprints8071939/sprint-1#11)
+- [Dia 6 - Resumo](sprints8071939/sprint-1#12)
+- [Dia 7 - Resumo](sprints8071939/sprint-1#13)
 
 ## Tarefas Diárias
 
