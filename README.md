@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/resumos/img/1657646882524.png" alt="banner Compass" />
+  <img src="/resumos/img/1657646882524.jpeg" alt="banner Compass" />
 </div>
 
 
