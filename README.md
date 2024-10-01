@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/resumos/img/1657646882524.jpeg" alt="banner Compass" />
 </div>
-
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📋 Organização
 
