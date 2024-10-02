@@ -35,37 +35,13 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 ## 📚 Conteúdo da Sprint
 
-### 1. Organização
-- Estratégias para organização de tarefas, uso de boards no GitLab e métodos para manter o controle de atividades.
-
-### 2. Git e GitLab
-- Fundamentos de versionamento de código com Git. Utilização do GitLab para controle de versões, gerenciamento de projetos e colaboração.
-
-### 3. Desenvolvimento Ágil
-- Práticas ágeis com Scrum, abordando os papéis de **Product Owner**, **Scrum Master** e **Equipe de Desenvolvimento**, além das principais cerimônias: **Sprint Planning**, **Sprint Review** e **Sprint Retrospective**.
-
-### 4. Fundamentos do Teste de Software
-- Introdução aos testes de software, incluindo os princípios de **Myers** e o **Princípio de Pareto**.
-- Testes de software focados em **Back-End**: estratégias de teste para APIs, banco de dados e serviços.
-
-### 5. NoSQL e SQL
-- Comparação entre bancos de dados **SQL** e **NoSQL**. Aplicação prática com exemplos.
-
-### 6. Cybersecurity
-
-- Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
-
----
-
-## ✅ Tasks Diárias
-
-- [Dia 1 - Resumo](sprints8071939/sprint-1#1): Introdução ao Git e GitLab.
-- [Dia 2 - Resumo](sprints8071939/sprint-1#2): Scrum e desenvolvimento ágil.
-- [Dia 3 - Resumo](sprints8071939/sprint-1#10): Fundamentos do teste de software.
-- [Dia 4 - Resumo](sprints8071939/sprint-1#16): Fundamentos do teste de software.
-- [Dia 5 - Resumo](sprints8071939/sprint-1#11): Fundamentos do teste de software.
-- [Dia 6 - Resumo](sprints8071939/sprint-1#12): Fundamentos do teste de software (Back-End).
-- [Dia 7 - Resumo](sprints8071939/sprint-1#13): SQL.
+- [Dia 1 - Rotina](sprints8071939/sprint-1#1): Introdução ao Git e GitLab.
+- [Dia 2 - Rotina](sprints8071939/sprint-1#2): Scrum e desenvolvimento ágil.
+- [Dia 3 - Rotina](sprints8071939/sprint-1#10): Fundamentos do teste de software.
+- [Dia 4 - Rotina](sprints8071939/sprint-1#16): Fundamentos do teste de software.
+- [Dia 5 - Rotina](sprints8071939/sprint-1#11): Fundamentos do teste de software.
+- [Dia 6 - Rotina](sprints8071939/sprint-1#12): Fundamentos do teste de software (Back-End).
+- [Dia 7 - Rotina](sprints8071939/sprint-1#13): SQL.
 
 ## 📅 Tarefas Diárias
 
