@@ -69,13 +69,13 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 | Dia  | Atividades                                                                              | Status |
 |------|-------------------------------------------------------------                            |-------|
-|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                                 |  [x]  |
-|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                                |  [x]  |
-|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software                           |  [x]  |
-|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software                            |  [x]  |
-|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software                            |  [x]  |
-|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End)                 |  [x]  |
-|[DIA 7](resumos/dia7.md)| SQL                                                         |  [x]  |
+|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                                 |  ✅ |
+|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                                |  ✅  |
+|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software                           |  ✅  |
+|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software                            |  ✅  |
+|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software                            |  ✅  |
+|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End)                 |  ✅  |
+|[DIA 7](resumos/dia7.md)| SQL                                                         |  ✅  |
 |[DIA 8](resumos/dia8.md)| NOSQL                                                       |  [ ]  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                                               |  [ ]  |
 
