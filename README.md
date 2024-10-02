@@ -1,7 +1,12 @@
-<div align="center">
-  <img src="/resumos/img/1657646882524.jpeg" alt="banner Compass" />
-</div>
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+  <a href="https://compass.uol/pt/home/"> 
+    <img src="/resumos/img/1657646882524.jpeg" alt="banner Compass" />
+  </a>
+
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
+![Build Status](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![Build Status](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Build Status](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## 📋 Organização
 
@@ -74,18 +79,13 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 8](resumos/dia8.md)| NOSQL                                                       |  [ ]  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                                               |  [ ]  |
 
-
-## 🎓 Certificações
-
-
-
 ## 🤝 Citações e Colaborações
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 
 ## 👥 Dinamicas em grupo
-- [Breno Lima]()
+- [Breno Lima](https://gitlab.com/Brenomax)
 - [Evelyn](https://gitlab.com/04julxa)
 - [Francinaldo](https://gitlab.com/Batissta)
 - [Felipe Cabral](https://gitlab.com/FCabral07)
