@@ -7,6 +7,10 @@
 ![Build Status](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Build Status](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Build Status](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Issues](https://img.shields.io/github/issues/Emanuel-Lira/Sprints/sprint%201)
+
+
 
 
 ## 📋 Organização
