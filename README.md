@@ -5,7 +5,7 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-black) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MyGet Downloads](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MongoDB&logoColor=%23ffffff)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Version](https://img.shields.io/badge/version-1.0.0-black)
 
