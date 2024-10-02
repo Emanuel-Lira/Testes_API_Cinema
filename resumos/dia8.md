@@ -29,7 +29,7 @@
 
 ### db.produtos.find;
 - Realizar uma consulta que apresente produtos com descrição vazia<br>
-![descrição vazia](/resumos/img/produtos/db''.png)
+![descrição vazia](/resumos/img/produtos/dbDescricao.png)
 
 ### db.produtos.find;
 - Realizar uma consulta que apresente produtos com a categoria "games"<br>
