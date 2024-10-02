@@ -1,5 +1,5 @@
   <a href="https://compass.uol/pt/home/"> 
-    <img src="/resumos/img/1657646882524.jpeg" alt="banner Compass" />
+    <img src="/resumos/img/1657646882524.jpeg" alt="Banner do Compass" />
   </a>
 
 
@@ -18,6 +18,7 @@
 - [Citações e Colaborações](#-citações-e-colaborações)
 
 ---
+
 ## 📝 Sobre
 Este projeto faz parte da **Sprint 1**, que abrange temas como organização, desenvolvimento ágil, testes de software, Cybersecurity e versionamento de código com Git e GitLab. Ao longo da Sprint, serão desenvolvidos exercícios e resumos para consolidar o aprendizado.
 
@@ -53,17 +54,18 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 ### 6. Cybersecurity
 
 - Fundamentos de segurança da informação, abordando práticas para proteger dados e infraestrutura.
+
 ---
 
 ## ✅ Tasks Diárias
 
-- [Dia 1 - Resumo](sprints8071939/sprint-1#1)
-- [Dia 2 - Resumo](sprints8071939/sprint-1#2)
-- [Dia 3 - Resumo](sprints8071939/sprint-1#10)
-- [Dia 4 - Resumo](sprints8071939/sprint-1#16)
-- [Dia 5 - Resumo](sprints8071939/sprint-1#11)
-- [Dia 6 - Resumo](sprints8071939/sprint-1#12)
-- [Dia 7 - Resumo](sprints8071939/sprint-1#13)
+- [Dia 1 - Resumo](sprints8071939/sprint-1#1): Introdução ao Git e GitLab.
+- [Dia 2 - Resumo](sprints8071939/sprint-1#2): Scrum e desenvolvimento ágil.
+- [Dia 3 - Resumo](sprints8071939/sprint-1#10): Fundamentos do teste de software.
+- [Dia 4 - Resumo](sprints8071939/sprint-1#16): Fundamentos do teste de software.
+- [Dia 5 - Resumo](sprints8071939/sprint-1#11): Fundamentos do teste de software.
+- [Dia 6 - Resumo](sprints8071939/sprint-1#12): Fundamentos do teste de software (Back-End).
+- [Dia 7 - Resumo](sprints8071939/sprint-1#13): SQL.
 
 ## 📅 Tarefas Diárias
 
@@ -79,14 +81,19 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 8](resumos/dia8.md)| NOSQL                                                       |  [ ]  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                                               |  [ ]  |
 
+---
+
 ## 🤝 Citações e Colaborações
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 
-## 👥 Dinamicas em grupo
+## 👥 Dinamicas em Grupo
 - [Breno Lima](https://gitlab.com/Brenomax)
 - [Evelyn](https://gitlab.com/04julxa)
 - [Francinaldo](https://gitlab.com/Batissta)
 - [Felipe Cabral](https://gitlab.com/FCabral07)
 - [Edno](https://gitlab.com/ednosilva)
+
+
+---
