@@ -46,13 +46,13 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 | Resumo  | Atividades                                                    |  Issues                        | Status |
 |------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                 | [Dia 1 - Rotina](sprints8071939/sprint-1#1)               |  ✅ |
-|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                | [Dia 2 - Rotina](sprints8071939/sprint-1#2)             |  ✅  |
-|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software            | [Dia 3 - Rotina](sprints8071939/sprint-1#10)              |  ✅  |
-|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software            | [Dia 4 - Rotina](sprints8071939/sprint-1#16)               |  ✅  |
-|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software            | [Dia 5 - Rotina](sprints8071939/sprint-1#11)               |  ✅  |
-|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End) | [Dia 6 - Rotina](sprints8071939/sprint-1#12)               |  ✅  |
-|[DIA 7](resumos/dia7.md)| SQL                                         | [Dia 7 - Rotina](sprints8071939/sprint-1#13)               |  ✅  |
+|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                 | [Dia 1 - Tasks](sprints8071939/sprint-1#1)               |  ✅ |
+|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
+|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software            | [Dia 3 - Tasks](sprints8071939/sprint-1#10)              |  ✅  |
+|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |  ✅  |
+|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software            | [Dia 5 - Tasks](sprints8071939/sprint-1#11)               |  ✅  |
+|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End) | [Dia 6 - Tasks](sprints8071939/sprint-1#12)               |  ✅  |
+|[DIA 7](resumos/dia7.md)| SQL                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |  ✅  |
 |[DIA 8](resumos/dia8.md)| NOSQL                                       |                |  [ ]  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                               |                |  [ ]  |
 
