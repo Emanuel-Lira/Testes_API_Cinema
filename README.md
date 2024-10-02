@@ -1,4 +1,4 @@
-  <a href="https://compass.uol/pt/home/"> 
+  <a href="https://compass.uol/pt/home/" id="banner"> 
     <img src="/resumos/img/1657646882524.jpeg" alt="Banner do Compass" />
   </a>
 
@@ -66,4 +66,4 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 ---
 
 #### ⬆️ Volte ao Inicio
-- [Voltar ao Inicio](#-sobre)
+- [Voltar ao Inicio](#banner)
