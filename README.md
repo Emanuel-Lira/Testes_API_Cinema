@@ -8,7 +8,9 @@
 ![Build Status](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Build Status](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Issues](https://img.shields.io/github/issues/Emanuel-Lira/Sprints/sprint%201)
+![License](https://img.shields.io/badge/license-MIT-blue) 
+![Issues](https://img.shields.io/gitlab/issues/Emanuel-Lira/Sprints/sprint%201)
+
 
 
 
