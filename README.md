@@ -3,12 +3,12 @@
   </a>
 
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
-![Build Status](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![Build Status](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Build Status](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-blue) 
+![Build Status](https://img.shields.io/badge/build-passing-black) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Version](https://img.shields.io/badge/version-1.0.0-black)
+
 
 
 
@@ -23,6 +23,7 @@
 - [Tasks Diárias](#-tasks-diárias)
 - [Tarefas Diárias](#-tarefas-diárias)
 - [Citações e Colaborações](#-citações-e-colaborações)
+- [Licença](#-licença)
 
 ---
 
@@ -73,3 +74,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 #### ⬆️ Volte ao Inicio
 - [Voltar ao Inicio](#-organização)
+
+## 📜 Licença
+
+© 2024 Emanuel Lira. Todos os direitos reservados.
