@@ -9,7 +9,7 @@
 ![Build Status](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue) 
-![Issues](https://img.shields.io/gitlab/issues/Emanuel-Lira/Sprints/sprint%201)
+
 
 
 
