@@ -57,8 +57,8 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 5](resumos/dia5.md)| Fundamentos do teste de software            | [Dia 5 - Tasks](sprints8071939/sprint-1#11)               |  ✅  |
 |[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End) | [Dia 6 - Tasks](sprints8071939/sprint-1#12)               |  ✅  |
 |[DIA 7](resumos/dia7.md)| SQL                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |  ✅  |
-|[DIA 8](resumos/dia8.md)| NOSQL                                       |                |  [ ]  |
-|[DIA 9](resumos/dia9.md)| Cybersecurity                               |                |  [ ]  |
+|[DIA 8](resumos/dia8.md)| NOSQL                                       | [Dia 8 - Tasks](sprints8071939/sprint-1#14)              |  ✅  |
+|[DIA 9](resumos/dia9.md)| Cybersecurity                               | [Dia 9 - Tasks](sprints8071939/sprint-1#15)               |  [ ]  |
 
 ---
 
