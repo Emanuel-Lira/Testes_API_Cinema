@@ -59,7 +59,7 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 |[DIA 7](resumos/dia7.md)| SQL                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |  ✅  |
 |[DIA 8](resumos/dia8.md)| NOSQL                                       | [Dia 8 - Tasks](sprints8071939/sprint-1#14)              |  ✅  |
 |[DIA 9](resumos/dia9.md)| Cybersecurity                               | [Dia 9 - Tasks](sprints8071939/sprint-1#15)               |  [ ]  |
-
+|[Commits](https://gitlab.com/sprints8071939/sprint-1/-/commits/main/?ref_type=HEADS)| Apresentação final | [Boards](https://gitlab.com/sprints8071939/sprint-1/-/boards) |  [ ]   |         
 ---
 
 ## 🤝 Citações e Colaborações
