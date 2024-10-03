@@ -1,4 +1,3 @@
-# Resumo Diário da Sprint - Dia 1
 
 ## Estudo: Fundamentos do Scrum e Papéis
 

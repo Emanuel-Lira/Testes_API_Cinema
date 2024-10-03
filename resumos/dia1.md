@@ -2,25 +2,57 @@
 
 ## Após a Daily
 
-## Git e GitLab
+## Git 
 
-   - [x] Dediquei tempo ao estudo e compreensão do funcionamento do Git e GitLab.
+- Sistema de controle de versão distribuído, usado para rastrear mudanças em arquivos e colaborar em projetos de software.
+
+- Principais Recursos:
+
+   - Branches: Permitem trabalhar em diferentes versões do projeto simultaneamente.
+   - Commits: Registros das mudanças feitas, com mensagens descritivas.
+   - Merge: Combina mudanças de diferentes branches.
+   - Rebase: Reaplica commits de um branch em outro, mantendo um histórico linear.
+   - Clonagem: Criação de uma cópia local do repositório remoto.
    
-   - [x] Ajudei alguns colegas a configurar suas contas no GitLab.
+## Gitlab 
+- gerenciamento de projetos.
+
+   - Repositórios: Hospedagem de repositórios Git com suporte a controle de acesso.
+   - CI/CD: Integração contínua e entrega contínua para automação de testes e deploy.
+   - Issues: Sistema de rastreamento de problemas e tarefas.
+   - Merge Requests: Facilita a revisão de código e colaboração antes da integração das mudanças.
+   - Wiki: Documentação integrada ao projeto.   
 
 ## README
 
-   -  Estudei sobre a importância e estrutura de um README eficiente.
+- Arquivo que fornece informações essenciais sobre um projeto, geralmente no formato Markdown
+   - Principais Elementos:
+      - Título: Nome do projeto.
+      - Descrição: Breve resumo do que o projeto faz e seu propósito.
+      - Instalação: Instruções sobre como configurar e instalar o projeto.
+      - Uso: Exemplos e orientações sobre como utilizar o projeto.
+      - Contribuição: Diretrizes para colaboradores que desejam contribuir com o projeto.
+      - Licença: Informação sobre a licença do projeto.
+      - Contato: Informações de contato do autor ou mantenedor.
 
-   -  Configurei o README do dia 1 no GitLab.
+   - Vantagens:
+
+      - Facilita a compreensão do projeto por novos usuários e desenvolvedores.
+      - Ajuda a estabelecer expectativas e a documentação de uso.
+      - Aumenta a colaboração, proporcionando diretrizes claras para contribuições.   
 
 ## Matriz de Eisenhower
+- gestão de tempo e priorização que ajuda a classificar tarefas com base na urgência e importância
 
-   -  Li e aprofundei o conhecimento sobre a Matriz de Eisenhower e suas aplicações na gestão de tempo e priorização de tarefas.
-    Scrum
+  - (Urgente): Tarefas que requerem atenção imediata
+  - (Importante): Tarefas que contribuem para metas a longo prazo.
+  - Urgente e Importante: Tarefas que devem ser feitas imediatamente.
+  - Importante, mas Não Urgente: Tarefas que devem ser agendadas para um momento posterior.
+  - Urgente, mas Não Importante: Tarefas que podem ser delegadas
+  - Nem Urgente Nem Importante: Tarefas que devem ser eliminadas ou minimizadas
+  
+  - Vantagens:
 
-   -  Iniciei os estudos sobre Scrum, explorando conceitos básicos.
-
-## Fundamentos do SCRUM Agile | Rápido e Prático
-
-   -  Adiantei o curso de SCRUM do dia 2
+      - Ajuda a focar no que realmente importa.
+      - Melhora a gestão do tempo e a produtividade.
+      - Facilita a delegação de tarefas.
