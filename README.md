@@ -6,15 +6,10 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![MyGet Downloads](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MongoDB&logoColor=%23ffffff)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MySQL) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=%23ffffff)
 ![Build Status](https://img.shields.io/badge/build-passing-black) 
 ![Version](https://img.shields.io/badge/version-1.0.0-black)
-
-
-
-
-
 
 
 
