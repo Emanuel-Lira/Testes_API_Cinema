@@ -62,11 +62,14 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - [Gabriel Castro](https://gitlab.com/leirbagOstarc)
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
+- [Beta](https://gitlab.com/betaniaAmaral)
+- [Diego Nachtigall](https://gitlab.com/ditsguts)
+- [Julia Fick](https://gitlab.com/JuFick)
 - [Breno Lima](https://gitlab.com/Brenomax)
 - [Evelyn](https://gitlab.com/04julxa)
 - [Francinaldo](https://gitlab.com/Batissta)
 - [Felipe Cabral](https://gitlab.com/FCabral07)
-- [Edno](https://gitlab.com/ednosilva)
+- [Edno ](https://gitlab.com/ednosilva)
 
 ---
 

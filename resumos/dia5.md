@@ -23,4 +23,4 @@
 ### Um QA Gera Qualidade 💼
 - Atuando como facilitador na prevenção de defeitos, o QA gera qualidade em um projeto.
 - Melhorando processos de desenvolvimento, contribui para a eficiência e eficácia das equipes.
-- Garantindo que os requisitos sejam atendidos, assegura que o produto final atenda às expectativas dos stakeholders. 👍
+- Garantindo que os requisitos sejam atendidos, assegura que o produto final atenda às expectativas dos stakeholders. 

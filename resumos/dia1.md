@@ -53,6 +53,6 @@
   
   - ✔️ **Vantagens:**
 
-      - 🎯 Ajuda a focar no que realmente importa.
-      - ⏳ Melhora a gestão do tempo e a produtividade.
-      - 🙌 Facilita a delegação de tarefas.
+      -  Ajuda a focar no que realmente importa.
+      -  Melhora a gestão do tempo e a produtividade.
+      -  Facilita a delegação de tarefas.
