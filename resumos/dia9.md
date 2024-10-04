@@ -68,3 +68,39 @@
 - **Desconexões**: Reinicie o roteador.
 - **Baixa velocidade**: Verifique a quantidade de dispositivos conectados.
 - **Sinal fraco**: Considere usar repetidores ou mudar o canal de transmissão.
+
+## OWASP 10
+
+- A OWASP (Open Web Application Security Project) publica uma lista das 10 principais vulnerabilidades em aplicações web. Abaixo está um resumo dessa lista:
+
+- **A1: Injeção**  
+   Injeções de SQL, NoSQL, Command e outros tipos de injeção, onde atacantes enviam dados maliciosos para manipular consultas.
+
+- **A2: Quebra de Autenticação**  
+   Falhas que permitem que atacantes comprometam senhas, chaves ou tokens de sessão.
+
+- **A3: Exposição de Dados Sensíveis**  
+   Dados sensíveis que não são protegidos adequadamente, como informações pessoais ou financeiras.
+
+- **A4: Entidades Externas XML (XXE)**  
+   Vulnerabilidades relacionadas ao processamento de XML, permitindo a inclusão de entidades externas maliciosas.
+
+- **A5: Controle de Acesso Quebrado**  
+   Falhas na verificação de permissões, permitindo acesso não autorizado a recursos e funcionalidades.
+
+- **A6: Configuração de Segurança Incorreta**  
+   Erros na configuração de segurança de servidores, frameworks, bancos de dados e outros componentes.
+
+- **A7: Cross-Site Scripting (XSS)**  
+   Permite que atacantes injetem scripts em páginas da web visualizadas por outros usuários.
+
+- **A8: Desvio de Controle de Fluxo**  
+   Falhas que permitem a manipulação do fluxo da aplicação, como CSRF (Cross-Site Request Forgery).
+
+- **A9: Usabilidade e Falhas de Segurança**  
+   Problemas de design que afetam a segurança, como interfaces complexas que levam a erros.
+
+- **A10: Insuficiência de Registro e Monitoramento**  
+    Falta de logs adequados e monitoramento, dificultando a detecção e resposta a incidentes de segurança.
+
+
