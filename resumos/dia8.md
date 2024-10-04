@@ -1,5 +1,16 @@
 # NOSQL
 
+## O que é NoSQL?
+- **NoSQL (Not Only SQL)**: Conjunto de tecnologias de bancos de dados que não utilizam o modelo relacional tradicional.
+- **Objetivo**: Gerenciar grandes volumes de dados, escalabilidade horizontal e flexibilidade na estrutura de dados.
+
+## Tipos de Bancos de Dados NoSQL
+
+### 1. Document Store
+- **Descrição**: Armazena dados em documentos (geralmente em formato JSON ou BSON).
+- **Exemplos**: MongoDB, CouchDB.
+
+
 ## Exercitando  NOSQL
 
 ## TABELA USUARIOS

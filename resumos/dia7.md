@@ -1,5 +1,21 @@
 # SQL
 
+## O que é SQL?
+- **SQL (Structured Query Language)**: Linguagem padrão para gerenciar e manipular bancos de dados relacionais.
+  
+## Principais Comandos SQL
+
+### 1. Comandos de DML (Data Manipulation Language)
+- **SELECT**: Recupera dados de uma ou mais tabelas.
+- **INSERT**: Adiciona novos registros a uma tabela.
+- **UPDATE**: Atualiza dados existentes em uma tabela.
+- **DELETE**: Remove registros de uma tabela.
+
+### 2. Comandos de DDL (Data Definition Language)
+- **CREATE TABLE**: Cria uma nova tabela no banco de dados.
+- **ALTER TABLE**: Modifica a estrutura de uma tabela existente.
+- **DROP TABLE**: Remove uma tabela do banco de dados.
+
 ## Exercitando SQL
 
 ## TABELA USUARIOS
