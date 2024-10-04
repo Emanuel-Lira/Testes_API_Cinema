@@ -1,4 +1,4 @@
-# Fundamentos do Teste de Software
+# Fundamentos do Teste de Software (Back-End)
 
 ## A Pirâmide de Testes ⛰️
 
