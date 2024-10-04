@@ -1,36 +1,39 @@
-## fundamentos da segurança da informação
+## Fundamentos da Segurança da Informação 🔒
 
-### O que é segurança da informação?
- - a segurança da Informação é a proteção de informações e sistemas de informação contra o acesso, o uso, a divulgação, a interrupção, a modificação ou a destruição não autorizados, a fim de fornecer confidencialidade, integridade e disponibilidade
+### O que é Segurança da Informação?
+- A segurança da informação é a proteção de informações e sistemas de informação contra o acesso, uso, divulgação, interrupção, modificação ou destruição não autorizados, a fim de garantir confidencialidade, integridade e disponibilidade.
 
- - Confidencialidade
+- **Confidencialidade** 🤫
   - Proteger a informação de acessos não autorizados, evitando situações de ataques por acesso indevido.
- - Integridade
-  - Manter as caracteristicas originais dos dados conforme sua criação
- - Disponibilidade
-  - Os dados estejam disponiveis para o que for necessário, quando precisarmos. 
 
-### Classificação da Informação
-  -  A classificação da informação tem como obtivo definir níveis de proteção que cada informação deve receber
+- **Integridade** ✔️
+  - Manter as características originais dos dados conforme sua criação.
 
- - Confidencial
-  - Informações altamente sigilosas e que não podem ser divulgadas para evitar danos à empresa, terceiros, funcionarios e clientes.
- - Restrita
-  - Informações exclusivas de alguns profissionais ou determinadas areas.
- - Interna
-  - Informações que competem aos profissionais
- - Publica
-  - Informações que podem ser divulgadas sem restrição   
+- **Disponibilidade** 📅
+  - Garantir que os dados estejam disponíveis para o que for necessário, quando precisarmos.
 
-### Tácticas de abordagem
+### Classificação da Informação 📂
+- A classificação da informação tem como objetivo definir níveis de proteção que cada informação deve receber.
 
-  - baiting 
-    - Uma isca podem trazer um malware para o computador ao inserir algo ou executar um arquivo
+- **Confidencial** 🔒
+  - Informações altamente sigilosas que não podem ser divulgadas para evitar danos à empresa, terceiros, funcionários e clientes.
 
-  - Phishin
-    - O atacante criar um conteudo enganoso muito proximo de algo legitimo e confiavel, para obter credenciais ou instalar um malware.
+- **Restrita** 🔑
+  - Informações exclusivas para alguns profissionais ou determinadas áreas.
 
-  - Dumpster Diving
-    - Caso as empresas não tenham cuidados com o descarte de informações o atacante pode encontrar relatorios inteiros, discos removiveis.
+- **Interna** 🏢
+  - Informações que competem aos profissionais da organização.
 
-    
+- **Pública** 🌐
+  - Informações que podem ser divulgadas sem restrição.
+
+### Táticas de Abordagem 🚨
+
+- **Baiting** 🎣
+  - Uma isca pode trazer um malware para o computador ao inserir algo ou executar um arquivo.
+
+- **Phishing** 🎭
+  - O atacante cria um conteúdo enganoso muito próximo de algo legítimo e confiável, para obter credenciais ou instalar um malware.
+
+- **Dumpster Diving** 🗑️
+  - Caso as empresas não tenham cuidados com o descarte de informações, o atacante pode encontrar relatórios inteiros, discos removíveis, etc.
