@@ -1,5 +1,5 @@
   <a href="https://compass.uol/pt/home/" id="banner"> 
-    <img src="/resumos/img/1657646882524.jpeg" alt="Banner do Compass" />
+    <img src="/Sprints/img/1657646882524.jpeg" alt="Banner do Compass" />
   </a>
 
 
@@ -73,6 +73,19 @@
 #### ⬆️ Volte ao Inicio
 - [Voltar ao Inicio](#-organização)
 
-## 📜 Licença
+## 📱 Contato
 
-© 2024 Emanuel Lira. Todos os direitos reservados.
+![Nome](https://img.shields.io/badge/Nome%20-%20Emanuel%20Silva%20Lira%20Brasil-black?style=for-the-badge)
+
+![Curso](https://img.shields.io/badge/Curso%20-%20Analise%20e%20Desenvolvimento%20de%20Sistemas-black?style=for-the-badge)
+
+![Semestre](https://img.shields.io/badge/Semestre%20-%20Segundo%20Semestre-black?style=for-the-badge)
+
+![Cidade](https://img.shields.io/badge/Cidade-%20Campina%20Grande%20-black?style=for-the-badge)
+
+[![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/emanuell.sl_/)
+
+[![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emanuel-silvalb/)
+
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
+
