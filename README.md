@@ -27,17 +27,17 @@
 
 ## 📝 Sobre
 
-Este projeto faz parte da **Sprint 1**, que abrange temas como organização, desenvolvimento ágil, testes de software, Cybersecurity e versionamento de código com Git e GitLab. Ao longo da Sprint, serão desenvolvidos exercícios e resumos para consolidar o aprendizado.
+
 
 ---
 
 ## 🎯 Objetivos da Sprint
 
-- Introduzir práticas ágeis de desenvolvimento utilizando o Scrum.
-- Utilizar o Git e GitLab para versionamento de código e documentação.
-- Explorar fundamentos de testes de software (incluindo princípios de Myers e Pareto).
-- Aprender sobre bancos de dados NoSQL e SQL.
-- Introduzir conceitos de Cybersecurity.
+-
+-
+-
+-
+-
 
 ---
 
@@ -45,15 +45,16 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 
 | Resumo  | Atividades                                                    |  Issues                        | Status |
 |------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Introdução ao Git e GitLab;                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#1)               |  ✅ |
-|[DIA 2](resumos/dia2.md)| Scrum e desenvolvimento ágil                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
-|[DIA 3](resumos/dia3.md)| Fundamentos do teste de software            | [Dia 3 - Tasks](sprints8071939/sprint-1#10)              |  ✅  |
-|[DIA 4](resumos/dia4.md)| Fundamentos do teste de software            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |  ✅  |
-|[DIA 5](resumos/dia5.md)| Fundamentos do teste de software            | [Dia 5 - Tasks](sprints8071939/sprint-1#11)               |  ✅  |
-|[DIA 6](resumos/dia6.md)| Fundamentos do teste de software (Back-End) | [Dia 6 - Tasks](sprints8071939/sprint-1#12)               |  ✅  |
-|[DIA 7](resumos/dia7.md)| SQL                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |  ✅  |
-|[DIA 8](resumos/dia8.md)| NOSQL                                       | [Dia 8 - Tasks](sprints8071939/sprint-1#14)              |  ✅  |
-|[DIA 9](resumos/dia9.md)| Cybersecurity                               | [Dia 9 - Tasks](sprints8071939/sprint-1#15)               |  ✅  |
+|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues
+;                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#1)               |  ✅ |
+|[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
+|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks](sprints8071939/sprint-1#10)              |    |
+|[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |    |
+|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks](sprints8071939/sprint-1#11)               |    |
+|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks](sprints8071939/sprint-1#12)               |    |
+|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |    |
+|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks](sprints8071939/sprint-1#14)              |    |
+|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks](sprints8071939/sprint-1#15)               |    |
 |[Commits](https://gitlab.com/sprints8071939/sprint-1/-/commits/main/?ref_type=HEADS)| Apresentação final | [Boards](https://gitlab.com/sprints8071939/sprint-1/-/boards) |  [ ]   |         
 ---
 
@@ -63,13 +64,9 @@ Este projeto faz parte da **Sprint 1**, que abrange temas como organização, de
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 - [Beta](https://gitlab.com/betaniaAmaral)
-- [Diego Nachtigall](https://gitlab.com/ditsguts)
-- [Julia Fick](https://gitlab.com/JuFick)
-- [Breno Lima](https://gitlab.com/Brenomax)
-- [Evelyn](https://gitlab.com/04julxa)
-- [Francinaldo](https://gitlab.com/Batissta)
-- [Felipe Cabral](https://gitlab.com/FCabral07)
-- [Edno ](https://gitlab.com/ednosilva)
+- [Isadora]()
+
+
 
 ---
 
