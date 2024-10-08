@@ -46,8 +46,7 @@
 
 | Resumo  | Atividades                                                    |  Issues                        | Status |
 |------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues
-;                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#1)               |  ✅ |
+|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#1)               |  ✅ |
 |[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
 |[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks](sprints8071939/sprint-1#10)              |    |
 |[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |    |
