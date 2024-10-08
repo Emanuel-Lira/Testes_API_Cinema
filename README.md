@@ -67,12 +67,7 @@
 - [Beta](https://gitlab.com/betaniaAmaral)
 - [Isadora]()
 
-
-
 ---
-
-#### ⬆️ Volte ao Inicio
-- [Voltar ao Inicio](#-organização)
 
 ## 📝 Informações
 
@@ -81,7 +76,12 @@
 ![Semestre](https://img.shields.io/badge/Semestre%20-%20Segundo%20Semestre-black?style=for-the-badge)<br>
 ![Cidade](https://img.shields.io/badge/Cidade-%20Campina%20Grande%20-black?style=for-the-badge)
 
+---
 
 ## 📱 Contato
 [![contato](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emanuell.sl_/) [![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/emanuel-silvalb/) [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
+
+--- 
+#### ⬆️ Volte ao Inicio
+- [Voltar ao Inicio](#-organização)
 
