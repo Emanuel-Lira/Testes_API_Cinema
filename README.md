@@ -21,7 +21,8 @@
 - [Tasks Diárias](#-tasks-diárias)
 - [Tarefas Diárias](#-tarefas-diárias)
 - [Citações e Colaborações](#-citações-e-colaborações)
-- [Licença](#-licença)
+- [Informações](#-informações)
+- [Contato](#-contato)
 
 ---
 
@@ -73,19 +74,16 @@
 #### ⬆️ Volte ao Inicio
 - [Voltar ao Inicio](#-organização)
 
-## 📱 Contato
+## 📝 Informações
 
 ![Nome](https://img.shields.io/badge/Nome%20-%20Emanuel%20Silva%20Lira%20Brasil-black?style=for-the-badge)
-
 ![Curso](https://img.shields.io/badge/Curso%20-%20Analise%20e%20Desenvolvimento%20de%20Sistemas-black?style=for-the-badge)
-
 ![Semestre](https://img.shields.io/badge/Semestre%20-%20Segundo%20Semestre-black?style=for-the-badge)
-
 ![Cidade](https://img.shields.io/badge/Cidade-%20Campina%20Grande%20-black?style=for-the-badge)
 
-[![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/emanuell.sl_/)
 
-[![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emanuel-silvalb/)
-
+## 📱 Contato
+[![contato](![Static Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram))](https://www.instagram.com/emanuell.sl_/)
+[![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/emanuel-silvalb/)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
 
