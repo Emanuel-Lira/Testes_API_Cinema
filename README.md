@@ -27,8 +27,7 @@
 ---
 
 ## 📝 Sobre
-
-
+ 
 
 ---
 
@@ -46,16 +45,16 @@
 
 | Resumo  | Atividades                                                    |  Issues                        | Status |
 |------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#1)               |  ✅ |
+|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks]()               |  ✅ |
 |[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
-|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks](sprints8071939/sprint-1#10)              |    |
+|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks]()              |    |
 |[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |    |
-|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks](sprints8071939/sprint-1#11)               |    |
-|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks](sprints8071939/sprint-1#12)               |    |
-|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#13)               |    |
-|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks](sprints8071939/sprint-1#14)              |    |
-|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks](sprints8071939/sprint-1#15)               |    |
-|[Commits](https://gitlab.com/sprints8071939/sprint-1/-/commits/main/?ref_type=HEADS)| Apresentação final | [Boards](https://gitlab.com/sprints8071939/sprint-1/-/boards) |  [ ]   |         
+|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks]()               |    |
+|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks]()               |    |
+|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks]()               |    |
+|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks]()              |    |
+|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks]()               |    |
+|[Commits]()| Apresentação final | [Boards]() |  [ ]   |         
 ---
 
 ## 🤝 Citações e Colaborações
