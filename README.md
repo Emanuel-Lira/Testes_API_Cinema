@@ -1,5 +1,5 @@
   <a href="https://compass.uol/pt/home/" id="banner"> 
-    <img src="/Sprints/img/1657646882524.jpeg" alt="Banner do Compass" />
+    <img src="/img/1657646882524.jpeg" alt="Banner do Compass" />
   </a>
 
 
