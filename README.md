@@ -83,7 +83,8 @@
 
 
 ## 📱 Contato
-[![contato](![Static Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram))](https://www.instagram.com/emanuell.sl_/)
+[![contato](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram))](https://www.instagram.com/emanuell.sl_/)
+
 [![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/emanuel-silvalb/)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
 
