@@ -16,15 +16,13 @@
 ## 📋 Organização
 
 - [![Sobre](https://img.shields.io/badge/Sobre-%23ffffff?style=flat&color=black)](#-sobre)
-
-- [Sobre a Sprint](#-sobre)
-- [Objetivos da Sprint](#-objetivos-da-sprint)
-- [Conteúdo da Sprint](#-conteúdo-da-sprint)
-- [Tasks Diárias](#-tasks-diárias)
-- [Tarefas Diárias](#-tarefas-diárias)
-- [Citações e Colaborações](#-citações-e-colaborações)
-- [Informações](#-informações)
-- [Contato](#-contato)
+- [![Objetivos](https://img.shields.io/badge/Objetivos-%23ffffff?style=flat&color=black)](#-objetivos-da-sprint)
+- [![Conteudo](https://img.shields.io/badge/Conteudos-%23ffffff?style=flat&color=black)](#-conteúdo-da-sprint)
+- [![Tasks](https://img.shields.io/badge/Tasks-%23ffffff?style=flat&color=black)](#-tasks-diárias)
+- [![Tarefas](https://img.shields.io/badge/Tarefas-%23ffffff?style=flat&color=black)](#-tarefas-diárias)
+- [![Citações](https://img.shields.io/badge/Citações-%23ffffff?style=flat&color=black)](#-citações-e-colaborações)
+- [![Informação](https://img.shields.io/badge/Informação-%23ffffff?style=flat&color=black)](#-informações)
+- [![Contato](https://img.shields.io/badge/Contato-%23ffffff?style=flat&color=black)](#-contato)
 
 ---
 
