@@ -68,10 +68,12 @@
 
 ## 📝 Informações
 
-<!-- ![Nome](https://img.shields.io/badge/Nome%20-%20Emanuel%20Silva%20Lira%20Brasil-black?style=for-the-badge)<br> 
-![Curso](https://img.shields.io/badge/Curso%20-%20Analise%20e%20Desenvolvimento%20de%20Sistemas-black?style=for-the-badge)<br>
-![Semestre](https://img.shields.io/badge/Semestre%20-%20Segundo%20Semestre-black?style=for-the-badge)<br>
-![Cidade](https://img.shields.io/badge/Cidade-%20Campina%20Grande%20-black?style=for-the-badge) -->
+- 🧑🏽 **Nome** - Emanuel
+- 🎓 **Curso** - Análise e  Desenvolvimento de Sistemas
+- 📅 **Semestre** - 2º Semestre
+- 🏙️ **Cidade** - Campina Grande - PB
+<br>
+<a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=192" width="100"></a>
 
 ---
 
