@@ -62,6 +62,7 @@
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 - [Beta](https://gitlab.com/betaniaAmaral)
+- [Diego P](https://gitlab.com/dgomp)
 - [Isadora]()
 
 ---
