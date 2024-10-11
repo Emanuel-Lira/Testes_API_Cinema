@@ -15,6 +15,8 @@
 
 ## 📋 Organização
 
+- ![Sobre](https://img.shields.io/badge/Sobre-%23000000?style=social&labelColor=%23000000)
+
 - [Sobre a Sprint](#-sobre)
 - [Objetivos da Sprint](#-objetivos-da-sprint)
 - [Conteúdo da Sprint](#-conteúdo-da-sprint)
