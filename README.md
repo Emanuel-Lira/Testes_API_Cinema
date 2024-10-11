@@ -76,6 +76,7 @@
 <br>
 <!-- <a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=192" width="100"></a>
 -->
+
 --- 
 
 ## 📱 Contato
