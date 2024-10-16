@@ -27,4 +27,4 @@
 
 O mapa mental, uma técnica utilizada desde os tempos de Da Vinci e aprimorada ao longo dos anos, é amplamente aplicado para análise e organização de ideias e processos. Seu objetivo principal é proporcionar uma visualização clara e estruturada do fluxo de ideias, facilitando a decomposição ou a criação de fluxos de trabalho. Utilizaremos essa abordagem para testes e fluxos de teste, pois se adapta muito bem a esse contexto.
 
-![nome da imagem](/Sprints/img/ServeRest%20API.png)
+![nome da imagem](/img/ServeRest%20API.png)
