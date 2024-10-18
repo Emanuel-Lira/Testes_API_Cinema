@@ -48,19 +48,7 @@
 ---
 
 ## 📚 Conteúdo da Sprint
-
-| Resumo  | Atividades                                                    |  Issues                        | Status |
-|------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#24)               |  ✅ |
-|[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#25)             |  ✅  |
-|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks](sprints8071939/sprint-1#26)              |    |
-|[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#27)               |    |
-|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks](sprints8071939/sprint-1#28)               |    |
-|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks](sprints8071939/sprint-1#29)               |    |
-|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#30)               |    |
-|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks](sprints8071939/sprint-1#31)              |    |
-|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks](sprints8071939/sprint-1#32)               |    |
-|[Plano de Testes](https://gitlab.com/sprints8071939/sprint-1/-/blob/pb_sprint2/Challenge/PlanoDeTestes.md?ref_type=heads)| Apresentação final |  |  [Matriz de Rastreabilidade](https://gitlab.com/sprints8071939/sprint-1/-/blob/pb_sprint2/Challenge/MatrizRastreabilidade.md?ref_type=heads)        | |  [ ]   |         
+     
 ---
 
 | Resumo                                                                                      | Atividades                                                            | Issues                                                  | Status | Documentos                                                                                                                                                                           |
