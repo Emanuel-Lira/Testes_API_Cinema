@@ -16,7 +16,7 @@
 - **Resultado Esperado:**
   - Status code: 200 OK
   - Retorno com uma lista de usuários no formato JSON.
-  - Cada usuário deve conter os campos esperados (nome, email, password, id).
+  - Cada usuário deve conter os campos esperados (nome, email, password, Adm, id).
 
 ---
 
