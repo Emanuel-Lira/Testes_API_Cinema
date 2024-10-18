@@ -7,10 +7,10 @@
  -->
 
 
-# Matriz de Rastreabilidade
+<!-- # Matriz de Rastreabilidade
 
-| ID do Cenário | Cenário                                 | Pré-condições                                               | Ação                                           | Resultado Esperado                                     |
-|---------------|-----------------------------------------|-----------------------------------------------------------|------------------------------------------------|-------------------------------------------------------|
+<!-- | ID do Cenário | Cenário                                 | Pré-condições                                               | Ação                                           | Resultado Esperado                                     | -->
+<!-- |---------------|-----------------------------------------|-----------------------------------------------------------|------------------------------------------------|-------------------------------------------------------|
 | RFC - 001             | Listagem de Usuários                   | Existência de pelo menos um usuário cadastrado            | GET /usuarios                                  | 200 OK, lista de usuários em JSON                     |
 | RFC - 002             | Listagem de Usuários Vazia             | Não existir nenhum usuário cadastrado                      | GET /usuarios                                  | 200 OK, lista vazia `[]`                              |
 |RFC - 003             | Cadastro de Novo Usuário                | Não existir um usuário com o mesmo e-mail                 | POST /usuarios (dados válidos)                | 201 Created, mensagem de sucesso com ID               |
@@ -21,4 +21,21 @@
 | RFC - 008           | Exclusão de Usuário Com Carrinho       | Um usuário com ID conhecido e com carrinho                | DELETE /usuarios/12345                         | 400 Bad Request, mensagem de erro                      |
 | RFC - 009          | Edição de Usuário Existente            | Um usuário com ID conhecido (12345) existe          | PUT /usuarios/12345 (novos dados)             | 200 OK, mensagem "Registro alterado com sucesso"      |
 | RFC - 010         | Edição de Usuário com E-mail Já Existente | Um usuário com ID conhecido e um segundo usuário com o e-mail | PUT /usuarios/12345 (e-mail existente)        | 400 Bad Request, mensagem de erro                      |
-| RFC - 011          | Edição de Usuário com ID não cadastrado | Um usuário com ID não existente                           | PUT /usuarios/99999                            | 201 Created  "Cadastro realizado com sucesso"                   |
+| RFC - 011          | Edição de Usuário com ID não cadastrado | Um usuário com ID não existente                           | PUT /usuarios/99999                            | 201 Created  "Cadastro realizado com sucesso"                   |  -->
+
+
+# Matriz de Rastreabilidade
+
+| ID do Cenário | Cenário                                 | Pré-condições                                               | Ação                                           | Resultado Esperado                                     | Status do Teste |
+|---------------|-----------------------------------------|-----------------------------------------------------------|------------------------------------------------|-------------------------------------------------------|------------------|
+| RFC - 001     | Listagem de Usuários                   | Existência de pelo menos um usuário cadastrado            | GET /usuarios                                  | 200 OK, lista de usuários em JSON                     | Passou           |
+| RFC - 002     | Listagem de Usuários Vazia             | Não existir nenhum usuário cadastrado                      | GET /usuarios                                  | 200 OK, lista vazia `[]`                              | Passou           |
+| RFC - 003     | Cadastro de Novo Usuário                | Não existir um usuário com o mesmo e-mail                 | POST /usuarios (dados válidos)                | 201 Created, mensagem de sucesso com ID               | Passou           |
+| RFC - 004     | Cadastro com E-mail Já Existente       | Um usuário com o e-mail já cadastrado                     | POST /usuarios (e-mail existente)             | 400 Bad Request, mensagem de erro                      | Passou           |
+| RFC - 005     | Busca de Usuário por ID Válido         | Um usuário com ID conhecido (12345) existe                | GET /usuarios/12345                            | 200 OK, dados do usuário correspondente                 | Passou           |
+| RFC - 006     | Busca de Usuário por ID Inválido       | Um ID que não existe (99999)                              | GET /usuarios/99999                            | 404 Not Found, mensagem de erro                        | Passou           |
+| RFC - 007     | Exclusão de Usuário Sem Carrinho       | Um usuário com ID conhecido e sem carrinho                | DELETE /usuarios/12345                         | 200 OK, mensagem de sucesso ou "Nenhum registro excluído" | Passou           |
+| RFC - 008     | Exclusão de Usuário Com Carrinho       | Um usuário com ID conhecido e com carrinho                | DELETE /usuarios/12345                         | 400 Bad Request, mensagem de erro                      | Passou           |
+| RFC - 009     | Edição de Usuário Existente            | Um usuário com ID conhecido (12345) existe                | PUT /usuarios/12345 (novos dados)             | 200 OK, mensagem "Registro alterado com sucesso"      | Passou           |
+| RFC - 010     | Edição de Usuário com E-mail Já Existente | Um usuário com ID conhecido e um segundo usuário com o e-mail | PUT /usuarios/12345 (e-mail existente)        | 400 Bad Request, mensagem de erro                      | Passou           |
+| RFC - 011     | Edição de Usuário com ID não cadastrado | Um usuário com ID não existente                           | PUT /usuarios/99999 (novos dados)             | 201 Created, mensagem "Cadastro realizado com sucesso" | Passou           |
