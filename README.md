@@ -26,17 +26,24 @@
 ---
 
 ## 📝 Sobre
- 
+ - iremos aprofundar nossos conhecimentos em testes de APIs, abordando desde a definição de User Stories e Issues até conceitos básicos e boas práticas. Focaremos em testes estáticos, validações, tipos de erros comuns e planejamento de testes. Também analisaremos a cobertura e a eficácia das nossas abordagens, utilizando mapas mentais. Além disso, faremos uma introdução ao Postman e apresentaremos ferramentas de apoio ao QA.
 
 ---
 
 ## 🎯 Objetivos da Sprint
 
--
--
--
--
--
+- User Stories & Issues.
+- Conceitos básicos para testes de API.
+- Testes Estáticos.
+- Tipos de erros comuns.
+- Validações em APIs.
+- Boas práticas.
+- Planejamento de testes.
+- Cobertura de testes.
+- Análise de testes.
+- Mapas mentais e testes.
+- Introdução ao Postman.
+- Ferramentas de apoio ao QA
 
 ---
 
@@ -44,16 +51,16 @@
 
 | Resumo  | Atividades                                                    |  Issues                        | Status |
 |------|-------------------------------------------------------------  | ------------------------------ |-------|
-|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks]()               |  ✅ |
-|[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#2)             |  ✅  |
-|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks]()              |    |
-|[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               |    |
-|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks]()               |    |
-|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks]()               |    |
-|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks]()               |    |
-|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks]()              |    |
-|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks]()               |    |
-|[Commits]()| Apresentação final | [Boards]() |  [ ]   |         
+|[DIA 1](resumos/dia1.md)| Conceitos HTTP, API REST, JSON, User Stories & Issues                 | [Dia 1 -  Tasks](sprints8071939/sprint-1#24)               |  ✅ |
+|[DIA 2](resumos/dia2.md)| Testes Estáticos                | [Dia 2 - Tasks](sprints8071939/sprint-1#25)             |  ✅  |
+|[DIA 3](resumos/dia3.md)| Tipos de erros, validações e boas práticas em testes de API            | [Dia 3 - Tasks](sprints8071939/sprint-1#26)              |    |
+|[DIA 4](resumos/dia4.md)| Planejamento de testes​​​​​​​            | [Dia 4 - Tasks](sprints8071939/sprint-1#27)               |    |
+|[DIA 5](resumos/dia5.md)| Cobertura de testes de APIs & Testes candidatos à automação            | [Dia 5 - Tasks](sprints8071939/sprint-1#28)               |    |
+|[DIA 6](resumos/dia6.md)| Introdução às atividades de análise de teste & Priorização em diferentes aplicações | [Dia 6 - Tasks](sprints8071939/sprint-1#29)               |    |
+|[DIA 7](resumos/dia7.md)| Análise HTTP e API REST                                         | [Dia 7 - Tasks](sprints8071939/sprint-1#30)               |    |
+|[DIA 8](resumos/dia8.md)| Introdução ao Postman                                      | [Dia 8 - Tasks](sprints8071939/sprint-1#31)              |    |
+|[DIA 9](resumos/dia9.md)| Evolução do Challenge                               | [Dia 9 - Tasks](sprints8071939/sprint-1#32)               |    |
+|[Plano de Testes]()| Apresentação final | [Cenario de testes]() |  [Mapa Mental]()        | |  [ ]   |         
 ---
 
 ## 🤝 Citações e Colaborações
@@ -63,7 +70,8 @@
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 - [Beta](https://gitlab.com/betaniaAmaral)
 - [Diego P](https://gitlab.com/dgomp)
-- [Isadora]()
+- [Carlos Daniel](https://gitlab.com/carlos-daniel1)
+
 
 ---
 
@@ -74,8 +82,8 @@
 - 📅 **Semestre** - 2º Semestre
 - 🏙️ **Cidade** - Campina Grande - PB
 <br>
-<!-- <a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=192" width="100"></a>
--->
+<!-- <a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=192" width="100"></a> -->
+
 
 --- 
 
