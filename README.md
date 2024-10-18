@@ -29,7 +29,6 @@
   Iremos estudar um pouco sobre testes de API, entendendo como funcionam as issues, conceitos basicos e boas praticas. O foco é mais em testes estaticos, tipos de erros e planejamento de testes. Tambem fala um pouco sobre cobertura e eficácia das nossas abordagens, fazendo uso de mapas mentais.
 
 
-
 ---
 
 ## 🎯 Objetivos da Sprint
@@ -74,8 +73,10 @@
 - [Giusepp de Couto](https://gitlab.com/giuuppa)
 - [igor Coelho](https://gitlab.com/igorcoelh0)
 - [Beta](https://gitlab.com/betaniaAmaral)
+- [Isadora](https://gitlab.com/isaapmachado2001)
 - [Diego P](https://gitlab.com/dgomp)
 - [Carlos Daniel](https://gitlab.com/carlos-daniel1)
+- [Diego Nachtigall](https://gitlab.com/ditsguts)
 
 
 ---
