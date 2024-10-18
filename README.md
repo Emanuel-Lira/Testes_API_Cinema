@@ -26,7 +26,9 @@
 ---
 
 ## 📝 Sobre
- - iremos aprofundar nossos conhecimentos em testes de APIs, abordando desde a definição de User Stories e Issues até conceitos básicos e boas práticas. Focaremos em testes estáticos, validações, tipos de erros comuns e planejamento de testes. Também analisaremos a cobertura e a eficácia das nossas abordagens, utilizando mapas mentais. Além disso, faremos uma introdução ao Postman e apresentaremos ferramentas de apoio ao QA.
+  Iremos estudar um pouco sobre testes de API, entendendo como funcionam as issues, conceitos basicos e boas praticas. O foco é mais em testes estaticos, tipos de erros e planejamento de testes. Tambem fala um pouco sobre cobertura e eficácia das nossas abordagens, fazendo uso de mapas mentais.
+
+
 
 ---
 
