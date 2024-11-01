@@ -70,21 +70,21 @@ Este projeto faz parte da **Sprint 3**, que abrange temas como planejamento e an
 
 ---
 
-# Organização do Projeto no Postman
+# Organização do Projeto no Postman 🚀
 
 O método de organização que elaborei para este projeto no Postman consiste na criação de pastas e subpastas, agrupando os assuntos, tipos e finalidades de forma clara.
 
-## Pastas
+## Pastas 📁
 
 A estrutura organizacional é a seguinte:
 
-### ServeRestAPI
+### ServeRestAPI 🌐
 
-#### Rota/login
+#### Rota/login 🔑
 - **POST**: Requisições POST na rota `/login`
   - Respostas salvas de cada solicitação
 
-#### Rota/usuarios
+#### Rota/usuarios 👤
 - **GET**: Requisições GET na rota `/usuarios`
   - Respostas salvas de cada solicitação
   
@@ -97,7 +97,7 @@ A estrutura organizacional é a seguinte:
 - **PUT**: Requisições PUT na rota `/usuarios`
   - Respostas salvas de cada solicitação
 
-#### Rota/produtos
+#### Rota/produtos 📦
 - **GET**: Requisições GET na rota `/produtos`
   - Respostas salvas de cada solicitação
   
@@ -109,6 +109,7 @@ A estrutura organizacional é a seguinte:
   
 - **PUT**: Requisições PUT na rota `/produtos`
   - Respostas salvas de cada solicitação
+
 
 
 
