@@ -10,46 +10,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-black)
 
 
-# Organização do Projeto no Postman
-
-O método de organização que elaborei para este projeto no Postman consiste na criação de pastas e subpastas, agrupando os assuntos, tipos e finalidades de forma clara.
-
-## Pastas
-
-A estrutura organizacional é a seguinte:
-
-### ServeRestAPI
-
-#### Rota/login
-- **POST**: Requisições POST na rota `/login`
-  - Respostas salvas de cada solicitação
-
-#### Rota/usuarios
-- **GET**: Requisições GET na rota `/usuarios`
-  - Respostas salvas de cada solicitação
-  
-- **POST**: Requisições POST na rota `/usuarios`
-  - Respostas salvas de cada solicitação
-  
-- **DELETE**: Requisições DELETE na rota `/usuarios`
-  - Respostas salvas de cada solicitação
-  
-- **PUT**: Requisições PUT na rota `/usuarios`
-  - Respostas salvas de cada solicitação
-
-#### Rota/produtos
-- **GET**: Requisições GET na rota `/produtos`
-  - Respostas salvas de cada solicitação
-  
-- **POST**: Requisições POST na rota `/produtos`
-  - Respostas salvas de cada solicitação
-  
-- **DELETE**: Requisições DELETE na rota `/produtos`
-  - Respostas salvas de cada solicitação
-  
-- **PUT**: Requisições PUT na rota `/produtos`
-  - Respostas salvas de cada solicitação
-
 
 ## 📝 Informações
 
@@ -107,6 +67,51 @@ Este projeto faz parte da **Sprint 3**, que abrange temas como planejamento e an
 | [DIA 4](resumos/dia4.md) |  Gestão de Issues | [Dia 4 - Tasks](sprints8071939/sprint-1#16)               | ✅  |
 | [DIA 5-6](resumos/dia5.md) | Gerenciamento, Ciclos e Reports de testes | [Dia 5-6 - Tasks](sprints8071939/sprint-1#11)               | ✅  |
 | [Commits]() | Apresentação final | [Boards](https://gitlab.com/sprints8071939/sprint-1/-/boards) | [ ]   |         
+
+---
+
+# Organização do Projeto no Postman
+
+O método de organização que elaborei para este projeto no Postman consiste na criação de pastas e subpastas, agrupando os assuntos, tipos e finalidades de forma clara.
+
+## Pastas
+
+A estrutura organizacional é a seguinte:
+
+### ServeRestAPI
+
+#### Rota/login
+- **POST**: Requisições POST na rota `/login`
+  - Respostas salvas de cada solicitação
+
+#### Rota/usuarios
+- **GET**: Requisições GET na rota `/usuarios`
+  - Respostas salvas de cada solicitação
+  
+- **POST**: Requisições POST na rota `/usuarios`
+  - Respostas salvas de cada solicitação
+  
+- **DELETE**: Requisições DELETE na rota `/usuarios`
+  - Respostas salvas de cada solicitação
+  
+- **PUT**: Requisições PUT na rota `/usuarios`
+  - Respostas salvas de cada solicitação
+
+#### Rota/produtos
+- **GET**: Requisições GET na rota `/produtos`
+  - Respostas salvas de cada solicitação
+  
+- **POST**: Requisições POST na rota `/produtos`
+  - Respostas salvas de cada solicitação
+  
+- **DELETE**: Requisições DELETE na rota `/produtos`
+  - Respostas salvas de cada solicitação
+  
+- **PUT**: Requisições PUT na rota `/produtos`
+  - Respostas salvas de cada solicitação
+
+
+
 
 ---
 
