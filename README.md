@@ -1,5 +1,5 @@
 <a href="https://compass.uol/pt/home/" id="banner"> 
-    <img src="/resumos/img/1657646882524.jpeg" alt="Banner do Compass" />
+    <img src="img/1657646882524.jpeg" alt="Banner do Compass" />
 </a>
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
