@@ -1,3 +1,32 @@
+<a href="https://compass.uol/pt/home/" id="banner"> 
+    <img src="img/1657646882524.jpeg" alt="Banner do Compass" />
+  </a>
+
+
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![MyGet Downloads](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MongoDB&logoColor=%23ffffff)
+![SQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MySQL) 
+![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=%23ffffff)
+![Build Status](https://img.shields.io/badge/build-passing-black) 
+![Version](https://img.shields.io/badge/version-1.0.0-black)
+
+## 📝 Informações
+
+- 🧑🏽 **Nome** - Emanuel Silva lira
+- 🎓 **Curso** - Análise e  Desenvolvimento de Sistemas
+- 📅 **Semestre** - 2º Semestre
+- 🏙️ **Cidade** - Campina Grande - PB
+<br>
+<a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=800" width="50"></a>
+
+
+--- 
+
+## 📱 Contato
+[![contato](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emanuell.sl_/) [![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/emanuel-silvalb/) [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
+
+
 # Projeto de Testes Automatizados com K6
 
 Este repositório contém os scripts e configurações para a execução de testes automatizados utilizando a ferramenta [K6](https://k6.io/). O objetivo do projeto é validar fluxos críticos, endpoints de APIs e comportamentos esperados no sistema.
@@ -71,10 +100,7 @@ Scripts de suporte e configurações compartilhadas, como:
 Execute os testes localmente utilizando o K6:
 
 ```
-
-Copy code
 k6 run scenarios/fluxos/processoCompraConcluido.js
-
 ```
 
 ### Relatórios
@@ -110,6 +136,21 @@ O arquivo `environments.js` é usado para configurar os ambientes, como:
     ```
     
 5. Abra um Pull Request.
+
+
+
+## 🤝 Citações e Colaborações
+
+- [Gabriel Castro](https://gitlab.com/leirbagOstarc)
+- [Giusepp de Couto](https://gitlab.com/giuuppa)
+- [igor Coelho](https://gitlab.com/igorcoelh0)
+- [Isadora](https://gitlab.com/isaapmachado2001)
+- [Betania](https://gitlab.com/betaniaAmaral)
+- [Diego Nachtigall](https://gitlab.com/ditsguts)
+- [Julia Fick](https://gitlab.com/JuFick)
+- [Eduarda Vieira](https://gitlab.com/eduarda-wq)
+- [Diego P](https://gitlab.com/dgomp)
+- [Carlos Daniel](https://gitlab.com/carlos-daniel1)
 
 ## Licença
 
