@@ -31,6 +31,31 @@
 
 Este repositório contém os scripts e configurações para a execução de testes automatizados utilizando a ferramenta [K6](https://k6.io/). O objetivo do projeto é validar fluxos críticos, endpoints de APIs e comportamentos esperados no sistema.
 
+
+## 📂 Estrutura de pastas
+
+```plaintext
+├── data/
+│   ├── dynamic/
+│   │   ├── dynamicProductData.js
+│   │   └── dynamicUserData.js
+│   └── static/
+│       └── staticData.json
+├── reports/
+├── scenarios/
+│   ├── movies/
+│   ├── tickets/
+│   └── fluxos/
+├── services/
+│   ├── login/
+│   ├── produtos/
+│   └── usuarios/
+├── support/
+│   ├── base/
+│   └── config/
+└── README.md
+```
+
 ## 📂 `data`  
 Contém os dados necessários para a execução dos testes. A pasta está dividida em dois tipos de dados: dinâmicos e estáticos.
 
