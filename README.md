@@ -15,7 +15,7 @@
 
 - 🧑🏽 **Nome** - Emanuel Silva lira
 - 🎓 **Curso** - Análise e  Desenvolvimento de Sistemas
-- 📅 **Semestre** - 2º Semestre
+- 📅 **Semestre** - 3º Semestre
 - 🏙️ **Cidade** - Campina Grande - PB
 <br>
 <a href="https://gitlab.com"><img src="https://gitlab.com/uploads/-/system/user/avatar/23014880/avatar.png?width=800" width="50"></a>
