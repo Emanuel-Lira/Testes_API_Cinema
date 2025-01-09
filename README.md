@@ -91,7 +91,7 @@ Scripts e configurações auxiliares que são compartilhados entre diferentes te
 1. Clone o repositório:
     
     ```
-    git clone https://github.com/seu-usuario/projeto-k6.git
+    git clone https://gitlab.com/sprints8071939/api-cinema.git
     ```
     
 2. Instale as dependências do projeto:
@@ -99,7 +99,6 @@ Scripts e configurações auxiliares que são compartilhados entre diferentes te
     ```
     npm install
     ```
-    
 
 ## Execução dos Testes
 
@@ -144,8 +143,6 @@ O arquivo `environments.js` é usado para configurar os ambientes, como:
     ```
     
 5. Abra um Pull Request.
-
-
 
 ## 🤝 Citações e Colaborações
 
