@@ -5,6 +5,8 @@
 
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=black&labelColor=F2F4F9) 
 ![MyGet Downloads](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MongoDB&logoColor=%23ffffff)
 ![SQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MySQL) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=%23ffffff)
