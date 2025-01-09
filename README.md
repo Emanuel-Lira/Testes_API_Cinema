@@ -31,47 +31,55 @@
 
 Este repositório contém os scripts e configurações para a execução de testes automatizados utilizando a ferramenta [K6](https://k6.io/). O objetivo do projeto é validar fluxos críticos, endpoints de APIs e comportamentos esperados no sistema.
 
-## Estrutura de Pastas
+## 📂 `data`  
+Contém os dados necessários para a execução dos testes. A pasta está dividida em dois tipos de dados: dinâmicos e estáticos.
 
-### `data`
+- **`dynamic`**: Scripts responsáveis por gerar dados dinâmicos para os testes.  
+  Exemplos:  
+    - `dynamicProductData.js`: Geração de dados dinâmicos relacionados a produtos.  
+    - `dynamicUserData.js`: Geração de dados dinâmicos relacionados a usuários.
 
-Contém os dados necessários para os testes.
+- **`static`**: Arquivos JSON contendo dados estáticos para os testes.  
+  Exemplos:  
+    - `staticData.json`: Dados pré-definidos para testes específicos.
 
-- **`dynamic`**: Scripts que geram dados dinâmicos para os testes, como:
-    - `dynamicProductData.js`: Dados dinâmicos de produtos.
-    - `dynamicUserData.js`: Dados dinâmicos de usuários.
-- **`static`**: Arquivos JSON com dados estáticos, como:
-    - `staticData.json`: Dados pré-definidos para serem utilizados nos testes.
+---
 
-### `reports`
+## 📈 `reports`  
+Contém os relatórios gerados após a execução dos testes. Esses relatórios são úteis para análise dos resultados.
 
-Relatórios gerados após a execução dos testes. Exemplos:
+- Exemplos de relatórios:
+    - `resultadosFluxoCompraConcluido.html`
+    - `resultadosSmokeGETUsuarios.html`
 
-- `resultadosFluxoCompraConcluido.html`
-- `resultadosSmokeGETUsuarios.html`
+---
 
-### `scenarios`
+## 🧪 `scenarios`  
+Scripts que definem os cenários de testes, organizados conforme a natureza dos testes.
 
-Scripts que definem os cenários de testes.
+- **`carrinhos`**: Pasta dedicada a testes relacionados a carrinhos de compras.  
+- **`fluxos`**: Fluxos de testes específicos, que simulam processos do sistema.  
+  Exemplos:  
+    - `processoCompraConcluido.js`: Testa o fluxo de compra concluída.
 
-- **`carrinhos`**: (Pasta reservada para testes relacionados a carrinhos de compras).
-- **`fluxos`**: Fluxos específicos de testes, como:
-    - `processoCompraConcluido.js`: Fluxo de compra concluída.
+---
 
-### `services`
+## 🔧 `services`  
+Scripts para interagir com os endpoints de APIs. Cada funcionalidade tem sua própria pasta, facilitando a organização e a reutilização de código.
 
-Scripts para interagir com os endpoints de APIs, organizados por funcionalidades:
+- **`login`**: Scripts relacionados ao processo de autenticação e login.  
+- **`produtos`**: Manipulação e operações sobre produtos.  
+- **`usuarios`**: Operações e interações relacionadas aos usuários.
 
-- **`login`**: Autenticação.
-- **`produtos`**: Manipulação de produtos.
-- **`usuarios`**: Operações relacionadas a usuários.
+---
 
-### `support`
+## 🛠️ `support`  
+Scripts e configurações auxiliares que são compartilhados entre diferentes testes.
 
-Scripts de suporte e configurações compartilhadas, como:
+- **`base`**: Funções base utilizadas em vários testes, como helpers e utilitários.  
+- **`config`**: Contém as configurações de ambiente e variáveis de configuração, como o arquivo `environments.js`.
 
-- **`base`**: Contém funções base utilizadas em vários testes.
-- **`config`**: Configurações do ambiente, como o arquivo `environments.js`.
+---
 
 ## Pré-requisitos
 
