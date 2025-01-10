@@ -27,7 +27,7 @@
 [![contato](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emanuell.sl_/) [![contato](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/emanuel-silvalb/) [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Emanuel-Lira)
 
 
-# Projeto de Testes Automatizados com K6
+# Testes Automatizados da API cinema
 
 Este repositório contém os scripts e configurações para a execução de testes automatizados utilizando a ferramenta [K6](https://k6.io/). O objetivo do projeto é validar fluxos críticos, endpoints de APIs e comportamentos esperados no sistema.
 
@@ -80,8 +80,8 @@ Scripts que definem os cenários de testes, organizados conforme a natureza dos 
 ## 🔧 `services`  
 Scripts para interagir com os endpoints de APIs. Cada funcionalidade tem sua própria pasta, facilitando a organização e a reutilização de código.
 
-- **`baseRest`**
-- **`baseServices`** 
+- **`baseRest.js`**
+- **`baseServices.js`** 
 
 ---
 
