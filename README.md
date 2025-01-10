@@ -37,22 +37,20 @@ Este repositório contém os scripts e configurações para a execução de test
 ```plaintext
 ├── data/
 │   ├── dynamic/
-│   │   ├── dynamicProductData.js
-│   │   └── dynamicUserData.js
-│   └── static/
-│       └── staticData.json
+│   │   ├── dynamicMovieData.js
 ├── reports/
 ├── scenarios/
-│   ├── movies/
-│   ├── tickets/
-│   └── fluxos/
 ├── services/
-│   ├── login/
-│   ├── produtos/
-│   └── usuarios/
+│   ├── baseRest.js
+│   ├── baseServices.js
 ├── support/
-│   ├── base/
+│   └── base/
+│   │   ├── baseChecks.js
+│   │   ├── baseTest.js
+│   │   ├── constants.js
 │   └── config/
+│   │   ├── environmets.js
+│   ├── base/
 └── README.md
 ```
 
@@ -61,12 +59,7 @@ Contém os dados necessários para a execução dos testes. A pasta está dividi
 
 - **`dynamic`**: Scripts responsáveis por gerar dados dinâmicos para os testes.  
   Exemplos:  
-    - `dynamicProductData.js`: Geração de dados dinâmicos relacionados a produtos.  
-    - `dynamicUserData.js`: Geração de dados dinâmicos relacionados a usuários.
-
-- **`static`**: Arquivos JSON contendo dados estáticos para os testes.  
-  Exemplos:  
-    - `staticData.json`: Dados pré-definidos para testes específicos.
+    - `dynamicMovieData.js`: Geração de dados dinâmicos relacionados a produtos.  
 
 ---
 
@@ -74,36 +67,29 @@ Contém os dados necessários para a execução dos testes. A pasta está dividi
 Contém os relatórios gerados após a execução dos testes. Esses relatórios são úteis para análise dos resultados.
 
 - Exemplos de relatórios:
-    - `resultadosFluxoCompraConcluido.html`
-    - `resultadosSmokeGETUsuarios.html`
-
+    - `resultadosLoadFilmes.html`
 ---
 
 ## 🧪 `scenarios`  
 Scripts que definem os cenários de testes, organizados conforme a natureza dos testes.
 
-- **`carrinhos`**: Pasta dedicada a testes relacionados a carrinhos de compras.  
-- **`fluxos`**: Fluxos de testes específicos, que simulam processos do sistema.  
-  Exemplos:  
-    - `processoCompraConcluido.js`: Testa o fluxo de compra concluída.
+- **`movies`**: Pasta dedicada a testes relacionados a movies 
 
 ---
 
 ## 🔧 `services`  
 Scripts para interagir com os endpoints de APIs. Cada funcionalidade tem sua própria pasta, facilitando a organização e a reutilização de código.
 
-- **`login`**: Scripts relacionados ao processo de autenticação e login.  
-- **`produtos`**: Manipulação e operações sobre produtos.  
-- **`usuarios`**: Operações e interações relacionadas aos usuários.
+- **`baseRest`**
+- **`baseServices`** 
 
 ---
 
 ## 🛠️ `support`  
 Scripts e configurações auxiliares que são compartilhados entre diferentes testes.
 
-- **`base`**: Funções base utilizadas em vários testes, como helpers e utilitários.  
+- **`base`**: Funções base utilizadas em vários testes
 - **`config`**: Contém as configurações de ambiente e variáveis de configuração, como o arquivo `environments.js`.
-
 ---
 
 ## Pré-requisitos
@@ -132,7 +118,7 @@ Scripts e configurações auxiliares que são compartilhados entre diferentes te
 Execute os testes localmente utilizando o K6:
 
 ```
-k6 run scenarios/fluxos/processoCompraConcluido.js
+k6 run Tests-k6/scenarios/loadMovies.js
 ```
 
 ### Relatórios
@@ -181,7 +167,3 @@ O arquivo `environments.js` é usado para configurar os ambientes, como:
 - [Eduarda Vieira](https://gitlab.com/eduarda-wq)
 - [Diego P](https://gitlab.com/dgomp)
 - [Carlos Daniel](https://gitlab.com/carlos-daniel1)
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
